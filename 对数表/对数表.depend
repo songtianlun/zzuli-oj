@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476776650 source:c:\users\ys\desktop\c程序练习\oj\对数表\main.c
+	<stdio.h>
+	<stdlib.h>
+

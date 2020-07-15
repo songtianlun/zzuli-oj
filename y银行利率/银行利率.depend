@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476263385 source:c:\users\ys\desktop\c程序练习\oj\银行利率\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1476284428 source:c:\users\ys\desktop\c程序练习\oj\n银行利率\main.c
+	<math.h>
+

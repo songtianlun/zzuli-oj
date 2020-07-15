@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478704851 source:c:\users\ys\desktop\c程序练习\oj\计算两点间的距离（多实例测试）\main.c
+	<stdio.h>
+	<math.h>
+

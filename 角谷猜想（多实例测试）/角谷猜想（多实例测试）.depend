@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480006233 source:f:\策划与练习\c程序练习\oj\ 角谷猜想（多实例测试）\main.c
+	<stdio.h>
+	<stdlib.h>
+

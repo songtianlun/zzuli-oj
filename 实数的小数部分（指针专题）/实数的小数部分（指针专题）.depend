@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482889014 source:f:\策划与练习\c程序练习\oj\实数的小数部分（指针专题）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

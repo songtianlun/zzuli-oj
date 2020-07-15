@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482887761 source:f:\策划与练习\c程序练习\oj\亲和串（字符串）\main.c
+	<stdio.h>
+	<string.h>
+

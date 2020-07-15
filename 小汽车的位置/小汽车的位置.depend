@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477738418 source:c:\users\ys\desktop\c程序练习\oj\小汽车的位置\main.c
+	<stdio.h>
+	<stdlib.h>
+

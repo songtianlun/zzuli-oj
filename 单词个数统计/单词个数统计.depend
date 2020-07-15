@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482073316 source:f:\策划与练习\c程序练习\oj\单词个数统计\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

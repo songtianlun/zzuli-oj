@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482333902 source:f:\策划与练习\c程序练习\oj\大整数加法\main.c
+	<stdio.h>
+	<string.h>
+

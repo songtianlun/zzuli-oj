@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476267419 source:c:\users\ys\desktop\c程序练习\oj\表面积和体积\main.c
+	<stdio.h>
+	<stdlib.h>
+

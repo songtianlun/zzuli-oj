@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482153885 source:f:\策划与练习\c程序练习\oj\小数点后第n位 多实例\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

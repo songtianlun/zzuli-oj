@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480059899 source:f:\c程序上机练习\oj\逆序数字（函数专题）\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480089408 source:f:\策划与练习\c程序练习\oj\逆序数字（函数专题）\main.c
+	<stdio.h>
+	<math.h>
+

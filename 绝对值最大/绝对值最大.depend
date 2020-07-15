@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476770592 source:c:\users\ys\desktop\c程序练习\oj\绝对值最大\main.c
+	<stdio.h>
+	<stdlib.h>
+

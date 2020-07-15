@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479115133 source:c:\users\ys\desktop\c程序练习\oj\阶乘的最高位\main.c
+	<stdio.h>
+	<stdlib.h>
+

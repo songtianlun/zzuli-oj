@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476768247 source:c:\users\ys\desktop\c程序练习\oj\某年某月有多少天\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486787664 source:f:\策划与练习\c程序练习\oj\删除记录（单链表）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

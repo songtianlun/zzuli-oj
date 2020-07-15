@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481039695 source:h:\c程序上机练习\oj\多个整数的逆序输出（函数专题）\main.c
+	<stdio.h>
+	<stdlib.h>
+

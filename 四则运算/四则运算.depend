@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476769533 source:c:\users\ys\desktop\c程序练习\oj\四则运算\main.c
+	<stdio.h>
+	<stdlib.h>
+
